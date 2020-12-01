@@ -1,4 +1,4 @@
-# She Code Africa Mentoring program - Cohort 3 Applicants Technical assessment
+# She Code Africa Mentoring program - Cohort 4 Applicants Technical assessment
 The She Code Africa mentoring program is a 3months cohort-style, intensive program specifically designed to pair experienced individuals excelling in their specific tech fields with beginners in need of a guide and learning path while helping them grow in required ways in their career fields.
 
 The technical assessment provides us an idea of the learning efforts you have put in towards your learning journey for your choosen track.
@@ -38,11 +38,11 @@ To start your technical assessment, kindly select a track and level that applies
 
 ## Submission info:
 To submit your solution, 
-- kindly head back to the original application form: https://bit.ly/SCA-mentee-C3 ,
+- kindly head back to the original application form: https://bit.ly/SCA-mentee-C4 ,
 - submit the URL to your solution in the required field
 - fill in other required details on the form
 - Submit
 
-## Submission / Application Deadline: 14th August 2020
+## Submission / Application Deadline: 30th January 2021
 
 *Your solution doesn't have to be perferct before submission, Good luck!*
