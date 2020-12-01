@@ -2,7 +2,8 @@
 
 - Create a repository on Github called ``SCAMP Assesment``
 
-- Using PHP, write out a function to output the fibbonacci sequence of a given number
+- Using PHP,  Write a JavaScript function that checks whether a passed string is palindrome or not?
+Note: A palindrome is a word, phrase, or sequence that reads the same backward as forward, e.g. madam, Level or My gym.
 
 ## Submission: 
 

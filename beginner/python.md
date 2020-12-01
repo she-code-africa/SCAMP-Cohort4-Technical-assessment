@@ -2,8 +2,8 @@
 
 - Create a repository on Github called ``SCAMP Assesment`
 
-- Using Python, write out a function to output the fibbonacci sequence of a given number
-
+- Using Python,  Write a JavaScript function that checks whether a passed string is palindrome or not?
+Note: A palindrome is a word, phrase, or sequence that reads the same backward as forward, e.g. madam, Level or My gym.
 ## Submission: 
 
 - Push your solution to github repo created 
