@@ -1,49 +1,17 @@
 # DevOps Technical Assesment
 
-**NOTE: PICK ANY OF THE FOLLOWING EXERCISES OF YOUR CHOICE**
-
-## EXERCISE 1:
-
 - Create a  repository on Github called `SCAMP Assessment`
+
+- Write a bash script to automate the deployment of any simple (functional) web application of your choice to a compute engine instance on Google Cloud Platform
   
-- With a simple Web application in any of your preferred languages
-
-- Package the application with Docker and Docker compose
-
-- Ensure you add a `documentation` to this excercise
+- Add a clear `documentation` on pre-requisites and other guides on how to execute your script and have a working application.
 
 - Push your project to your github repo
 
-Hint: we should be able to build up and destroy your application with:
-
-```bash
-docker-compose -f "docker-compose.yml" up -d --build  
-
-docker-compose down
-```
-
-# OR
-
-
-## EXERCISE 2 :
-
-- Create a repository on Github called ``SCAMP Assesment``
-
-- Create/Build a Command-line interface (CLI) application which will install the following softwares: wget, curl, Node.js
-
-Requirements:
-
-- The script should be able to check the operating system of the user and install them using the appropriate command(s)
-
-- The script should be able to check if any of the software has been installed, if it hasn't, then it should install it.
-
-- Use any scripting language of your choice such as Nodejs, Shell, Python, etc.
-
-- Ensure you add a `documentation` to this excercise
-
+Hint: we should be able to execute your script following your documentation and get a successful deployment.
 
 ## Submission
 - Push your project to your github repo created.
-- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C3
+- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C4
 
 *Good luck!*
