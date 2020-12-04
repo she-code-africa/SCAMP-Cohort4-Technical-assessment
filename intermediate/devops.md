@@ -2,7 +2,7 @@
 
 - Create a  repository on Github called `SCAMP Assessment`
 
-- Write a bash script to automate the deployment of any simple (functional) web application of your choice to a compute engine instance on Google Cloud Platform
+- Write a bash script to automate the deployment of any simple (functional) web application of your choice to a Linux (Ubuntu) compute engine instance on Google Cloud Platform. 
   
 - Add a clear `documentation` on pre-requisites and other guides on how to execute your script and have a working application.
 
