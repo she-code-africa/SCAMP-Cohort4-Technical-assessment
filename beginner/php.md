@@ -9,6 +9,6 @@
 
 - Push your solution to the github repo created 
 
-- submit the URL on the application form here: https://bit.ly/SCA-mentee-C3
+- submit the URL on the application form here: https://bit.ly/SCA-mentee-C4
 
 *Good luck!*
