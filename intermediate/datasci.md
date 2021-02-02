@@ -2,7 +2,9 @@
 
 - Create a repository on Github called ``SCAMP Assessment``
 
-- Given the dataset and details at - [Dataset](intermediate/datasci.md)
+- Download the dataset at [Dataset](/intermediate/dataset.csv)
+
+- Given the dataset and details
 visualize;
 1. The best selling books of the decade.
 2. The percentage of fiction to non-fiction.
