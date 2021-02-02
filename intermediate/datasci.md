@@ -2,7 +2,9 @@
 
 - Create a repository on Github called ``SCAMP Assessment``
 
-- Given the dataset and details at https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019 - Amazon best selling books of 2009-2019
+- Download the dataset at [Dataset](/intermediate/dataset.csv)
+
+- Given the dataset and details
 visualize;
 1. The best selling books of the decade.
 2. The percentage of fiction to non-fiction.
